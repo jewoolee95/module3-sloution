@@ -1,0 +1,39 @@
+@media (min-width: 992px){
+  .navbar-nav {
+    display:none;
+  }
+}
+#p1{
+  text-align: center;
+  font-size: 60px;
+  font-weight: bold;
+  text-transform: capitalize;
+}
+.p2{
+  text-align: center;
+  font-size: 30px;
+  text-transform: capitalize;
+}
+.container{
+  background-color: blanchedalmond;
+  border: 1px solid black;
+  width:80%;
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 40px;
+}
+.nav-link{
+  border-top: 1px solid black;
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+}
+.navbar{
+  padding-bottom: 0px;
+}
+header {
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+}
+h1{
+  font-weight:bold ;
+}
